@@ -12,6 +12,6 @@ da_external_hostname = "decree-absolute.apply-divorce.perftest.platform.hmcts.ne
 
 da_external_cert_name = "wildcard-perftest-platform-hmcts-net"
 
-external_cert_vault_uri = "https://infra-vault-qa.vault.azure.net"
+external_cert_vault_uri = "https://infra-vault-qa.vault.azure.net/"
 
 managed_identity_object_id = "6dda7a5f-077b-4661-8adc-88f698034438"
